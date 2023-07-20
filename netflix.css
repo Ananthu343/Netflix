@@ -57,6 +57,7 @@ body{
     /* background-color: #e50914; */
 }
 .email{
+    color: white;
     width: 376px;
     height: 56px;
     background: transparent;
